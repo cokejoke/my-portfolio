@@ -25,9 +25,6 @@ $ docker-compose down
 ## Development
 
 ```bash
-# switch to working directory
-$ cd frontend/
-
 # install necessary dependencies
 $ npm install
 
